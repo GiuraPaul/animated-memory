@@ -1,0 +1,13 @@
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.exe
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.deps.json
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.runtimeconfig.json
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.runtimeconfig.dev.json
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.dll
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\bin\Debug\netcoreapp3.1\UntitledTextGame.pdb
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.csprojAssemblyReference.cache
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.AssemblyInfoInputs.cache
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.AssemblyInfo.cs
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.csproj.CoreCompileInputs.cache
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.dll
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.pdb
+C:\Users\stabberxX\Desktop\C# Projects\UntitledTextGame\UntitledTextGame\obj\Debug\netcoreapp3.1\UntitledTextGame.genruntimeconfig.cache
